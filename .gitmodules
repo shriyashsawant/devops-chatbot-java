@@ -1,0 +1,6 @@
+[submodule "slackbot"]
+	path = slackbot
+	url = https://github.com/shriyashsawant/slackbot.git
+[submodule "jenkins-on-railway"]
+	path = jenkins-on-railway
+	url = https://github.com/shriyashsawant/jenkins-on-railway.git
